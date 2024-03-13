@@ -1,10 +1,17 @@
-local okai = { }
+local M = {}
 
-function okai.load()
+function M.load()
+    vim.cmd.hi("clear")
+    vim.opt.termguicolors = true
+    vim.g.colors_name = "okai"
+
+    if vim.fn.exists("syntax_on") then
+        vim.api.nvim_command("syntax reset")
+    end
+
     require("okai.colors")
 end
 
-function okai.setup()
-end
+function M.setup() end
 
-return okai
+return M
