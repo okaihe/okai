@@ -1,1 +1,1 @@
-require("okai").colorscheme()
+require("okai").load()
