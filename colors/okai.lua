@@ -1,1 +1,1 @@
-require("okai").load()
+require('okai').load()
