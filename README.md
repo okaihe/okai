@@ -16,7 +16,7 @@ Some main common plugins are supported:
 - Telescope
 - Gitsignes
 
-## Installation
+## 🚀 Installation
 
 Install the colorscheme via any package manager, for example with Lazy:
 
@@ -33,6 +33,6 @@ Install the colorscheme via any package manager, for example with Lazy:
 }
 ```
 
-## Creating your own Colorscheme
+## ✏️  Creating your own Colorscheme
 
-The colorscheme was made with (Lush.nvim)[https://github.com/rktjmp/lush.nvim]. Check it out!
+The colorscheme was made with [Lush.nvim](https://github.com/rktjmp/lush.nvim). Check it out!
