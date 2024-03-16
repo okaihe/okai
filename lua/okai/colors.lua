@@ -161,7 +161,7 @@ local colors = {
     diffRemoved = { fg = '#D35050' },
     diffSubname = { fg = '#EFBF57', bold = true },
     fugitiveHash = { fg = '#B1D9AB' },
-    fugitiveHeader = { fg = '#CF8E6E' },
+    fugitiveHeader = { fg = '#E5A315' },
     fugitiveHeading = { fg = '#99CCFF', bold = true },
     fugitiveHelpTag = { fg = '#B4B4DA' },
     fugitiveSection = { fg = '#F8FCF8' },
