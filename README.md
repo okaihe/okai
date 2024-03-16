@@ -1,3 +1,3 @@
-# Okai Colorscheme
+# 🍊 Okai
 
-That's my colorscheme!
+Orange, blue and green based colorscheme :)
