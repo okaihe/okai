@@ -27,7 +27,7 @@ M.insert = {
 }
 
 M.command = {
-    a = { bg = colors.blue, fg = colors.black },
+    a = { bg = colors.darkblue, fg = colors.white },
     b = { bg = colors.lightblack, fg = colors.blue },
     c = { bg = colors.black, fg = colors.white },
 }
