@@ -215,7 +215,7 @@ local colors = {
     ['@operator'] = { fg = '#EDE1D4' },
     ['@parameter'] = { fg = '#B4B4DA' },
     ['@property.yaml'] = { fg = '#99CCFF' },
-    ['@punctuation'] = { fg = '#ABB4C9' },
+    ['@punctuation'] = { fg = '#EAA61F' },
     ['@punctuation.bracket.yaml'] = { fg = '#EAA61F', bold = true },
     ['@punctuation.special.markdown'] = { fg = '#4DEAFF' },
     ['@string'] = { fg = '#74BE8A' },
@@ -233,6 +233,7 @@ local colors = {
     ['@tag.html'] = { fg = '#EAA61F', bold = true },
     ['@text.todo'] = { fg = '#4DEAFF', bg = '#363F54', bold = true },
     ['@type'] = { fg = '#099AFB', bold = true },
+    ['@type.typescript'] = { fg = '#099AFB', bold = true },
     ['@type.yaml'] = { fg = '#FFCA61', bold = true },
     ['@constructor'] = { link = '@type' },
     ['@type.builtin'] = { link = '@type' },
@@ -246,7 +247,6 @@ local colors = {
     ['@lsp.type.parameter.typescript'] = { link = '@variable' },
     ['@lsp.type.property.typescript'] = { link = '@variable' },
     ['@lsp.type.variable.typescript'] = { link = '@variable' },
-    ['@type.typescript'] = { link = '@variable' },
 }
 
 vim.cmd('highlight clear')
