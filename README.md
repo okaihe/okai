@@ -1,9 +1,7 @@
 # 🍊 Okai - nvim
 
 Orange, blue and green based colorscheme for Neovim! 
-You can find the corresponding Tmux and ITerm2 colorschemes here:
-- Tmux: [Tmux-Okai](https://github.com/okaihe/tmux-okai)
-- ITerm2: [ITerm2-Okai](https://github.com/okaihe/iterm2-okai)
+You can find the corresponding Tmux colorscheme [here](https://github.com/okaihe/tmux-okai). There is also a ITerm2 color profile [here](./extra/iterm2-okai.itermcolors)!
 
 ## 🔌 Plugin support
 
