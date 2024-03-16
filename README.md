@@ -3,6 +3,9 @@
 Orange, blue and green based colorscheme for Neovim!
 You can find the corresponding Tmux colorscheme [here](https://github.com/okaihe/tmux-okai). There is also an ITerm2 color profile [here](./extra/iterm2-okai.itermcolors)!
 
+![Screenshot1](./doc/screenshot1.jpeg)
+![Screenshot1](./doc/screenshot2.jpeg)
+
 ## 🔌 Plugin support
 
 Some main common plugins are supported:
