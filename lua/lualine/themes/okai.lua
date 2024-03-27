@@ -50,4 +50,10 @@ M.inactive = {
     c = { bg = colors.black, fg = colors.white },
 }
 
+M.terminal {
+    a = { bg = colors.mint, fg = colors.black },
+    b = { bg = colors.lightblack, fg = colors.mint },
+    c = { bg = colors.black, fg = colors.white },
+}
+
 return M
