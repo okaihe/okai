@@ -1,6 +1,4 @@
 local colors = {
-    -- content here will not be touched
-    -- PATCH_OPEN
     Normal = { fg = '#EDE1D4', bg = '#151519' },
     DiffText = { link = 'Normal' },
     FoldColumn = { link = 'Normal' },
@@ -238,7 +236,6 @@ local colors = {
     ['@type.builtin.python'] = { link = '@type' },
     ['@variable'] = { fg = '#EDE1D4' },
     ['@variable.builtin'] = { fg = '#C397BE' },
-    ['@variable.member.lua'] = { fg = '#99CCFF' },
     ['@lsp.type.property.lua'] = { link = '@variable.member.lua' },
     ['@variable.parameter'] = { fg = '#EDE1D4' },
     ['@lsp.typemod.parameter.declaration.lua'] = { link = '@variable.parameter' },
