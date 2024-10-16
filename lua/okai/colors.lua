@@ -1,4 +1,6 @@
 local colors = {
+    -- content here will not be touched
+    -- PATCH_OPEN
     Normal = { fg = '#EDE1D4', bg = '#151519' },
     DiffText = { link = 'Normal' },
     FoldColumn = { link = 'Normal' },
@@ -242,6 +244,8 @@ local colors = {
     ['@lsp.type.parameter.typescript'] = { link = '@variable' },
     ['@lsp.type.property.typescript'] = { link = '@variable' },
     ['@lsp.type.variable.typescript'] = { link = '@variable' },
+    -- PATCH_CLOSE
+    -- content here will not be touched
 }
 
 vim.cmd('highlight clear')
