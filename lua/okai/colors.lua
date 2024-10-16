@@ -197,7 +197,6 @@ local colors = {
     ['@type.qualifier.java'] = { link = '@keyword' },
     ['@type.qualifier.typescript'] = { link = '@keyword' },
     ['@label'] = { fg = '#4DEAFF' },
-    ['@lsp.type.class.typescript'] = { fg = '#74BE8A' },
     ['@markup.heading.1.markdown'] = { fg = '#D9AE6D', bold = true },
     ['@markup.heading.2.markdown'] = { fg = '#D9AE6D', bold = true },
     ['@markup.heading.3.markdown'] = { fg = '#D9AE6D', bold = true },
