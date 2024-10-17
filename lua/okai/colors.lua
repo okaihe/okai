@@ -1,7 +1,7 @@
+-- Background: 0a0a12
 local colors = {
     -- content here will not be touched
     -- PATCH_OPEN
-    -- 0a0a12
     Normal = { fg = '#EDE1D4', bg = '#0a0a12' },
     DiffText = { link = 'Normal' },
     FoldColumn = { link = 'Normal' },
