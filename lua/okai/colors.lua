@@ -194,7 +194,7 @@ local colors = {
     Function = { link = '@function' },
     ['@method'] = { link = '@function' },
     ['@keyword'] = { fg = '#99CCFF', bold = true },
-    ['@keyword.gitcommit'] = { fg = '#518BDB', bold = true },
+    ['@keyword.gitcommit'] = { fg = '#99CCFF', bold = true },
     Keyword = { link = '@keyword' },
     ['@lsp.type.modifier.java'] = { link = '@keyword' },
     ['@type.qualifier.java'] = { link = '@keyword' },
